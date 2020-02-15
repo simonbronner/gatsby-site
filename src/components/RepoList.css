@@ -1,0 +1,18 @@
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-gap: 10px;
+    background-color: #fff;
+}
+
+.moduleBox {
+    background-color: #Cecece;
+    color: #1e1e1e;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.moduleDescriptionStyle {
+    color: #3e3e3e;
+    font-size: 50%;
+}
